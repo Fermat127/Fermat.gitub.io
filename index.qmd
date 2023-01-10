@@ -1,0 +1,28 @@
+title: "Welcome!"
+image: profile.png
+toc: false
+about: 
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href:
+     https://www.linkedin.com/in/andreas-momme-studsgaard-55373b180/
+---
+
+Welcome to my site!  
+Nothing much to see yet.
+
+## Education
+MSc. Student in Mathematics at the University of Copenhagen (KU) (September 2022 -
+now)  
+  
+
+BSc. in Mathematics . (2019 - 2022)
+
+
+## Interests
+Algebraic geometry, Arithmetic geometry and number theory
+
+## Mail
+andreas (dot) momme @ outlook (dot) dk
